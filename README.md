@@ -1,2 +1,2 @@
 # Megaline
-Statistical data analysis
+We are going to conduct a preliminary analysis of the tariffs based on a relatively small selection of clients. We will have data for 500 Megaline clients: who the clients are, where they are from, which tariff they use, as well as the number of calls they made and the text messages they sent in 2018. Our task is to analyze client behavior and determine which prepaid tariff generates the most income. Later on, you will find specific aspects of client behavior that you need to analyze in the project instructions. Determining which plan, on average, contributes the most income will be addressed through statistical tests. More information on this can be found in the project instructions section.
